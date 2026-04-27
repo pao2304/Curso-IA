@@ -26,3 +26,18 @@
 ## Modelos propietarios
 
 ### Gemini
+
+* URL
+   * https://gemini.google.com/app?hl=es
+* Empresa
+  * Google
+* Para que destaca
+   * Gemini traza la IA con busquedas especializandose en conocimeinto Factico (en hechos)
+   * Mejor integracion con busqueda en internet
+   * Integracion con el ecosistema de google
+   * Creador del modo investigacion
+   * 
+ 
+
+
+
