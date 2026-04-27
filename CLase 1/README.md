@@ -71,6 +71,11 @@
    ---
 # Large Language Models 
 
+### Caracteristicas comunes
+
+* Todos los LLM incorporaron herramientas e integraciones
+  * 
+
 ## ChatGPT
 
 * URL
@@ -85,7 +90,7 @@
 ### Memoria
 
 * Chatgpt recuerda aspectos que concidera relevantes con la persona que habla
-Roast (gasatada, delirara aalguien)
+Roast (gasatada, delirara a alguien)
 
 '''
 En base a lo que conoces de mi haceme un roast que no tenga piedad y sea gracioso  -- pegar en el gpt y verificar la respuesta.
@@ -108,8 +113,19 @@ Igual tranqui, no todo es malo: tenés potencial. Mucho. Demasiado. Tanto que ya
 
 Si querés, puedo hacer uno más personalizado… pero ahí ya entramos en terreno peligroso 😄
 
+* En cualquier momento le puedo decir a ChaGPT "quiero que recuerdes esto de mi..."
+* Se puede tambien ver
+   * Usuario (abajo a la izquierda) ... Pesonalizacion...Memoria...
+ 
+### Personalizacion
 
+* En el menu de personalizacion se pueden configurar Instrucciones personalizadas
 
+'''
+Quiero que todo me lo respondas en rima. Cada reapuesta tuya tiene que ser un poema y tiene que rimar. 
+No se aceptan respuestas que no esten en este formato.
+
+'''
 
 
 
