@@ -74,7 +74,7 @@
 ### Caracteristicas comunes
 
 * Todos los LLM incorporaron herramientas e integraciones
-  * 
+  * Busqueda Web 
 
 ## ChatGPT
 
@@ -126,8 +126,29 @@ Quiero que todo me lo respondas en rima. Cada reapuesta tuya tiene que ser un po
 No se aceptan respuestas que no esten en este formato.
 
 '''
+* Le voy a peguntar con las instrucciones personalizadas y el uso de herramientas (busqueda web)
 
+'''
+Quiero que me cuentes qu paso hoy en la argentina
+--- Pegar el resultado.
 
+'''
 
+# Historia
+
+* Las primeras versiones de ChatGPT trajeron historias como estas:
+  * Historia real que paso en USA
+  * Un abogado realizo todo se alegato con ChatGPT
+  * El alegato era excelente sus colegas lo leyero y se sorprendieron
+  * El alegato citaba mucha jurisprudencia
+  * Ahora cuando los jueces se pusieron a verificar la jurisprudencia ningun caso existia.
+  * ChatGPT se inventó todo
+  * El abogado tuvo que admitir que uso chstGPT, que no verificó las fuentes
+  * Supongo le sacaron la matricula
+
+# Glosario
+
+* Alucinacion: Cuando el modelo Inventa o responde algo mal o no relacionado
+* Grounding: Contastar la respuesta de la IA contra fuentes verificables
    
   
