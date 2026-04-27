@@ -91,7 +91,8 @@ Roast (gasatada, delirara aalguien)
 En base a lo que conoces de mi haceme un roast que no tenga piedad y sea gracioso  -- pegar en el gpt y verificar la respuesta.
 '''
 * EL MIO sin iniciar sesion
-  "Mirá… te voy a hacer un roast, pero con lo poco que sé de vos, así que si duele… es porque completás los espacios en blanco solo.
+
+* Mirá… te voy a hacer un roast, pero con lo poco que sé de vos, así que si duele… es porque completás los espacios en blanco solo.
 
 Sos de esas personas que piden “sin piedad” pero seguro después leen esto con cara de “bueno tampoco era para tanto che”. Querés un roast fuerte, pero emocionalmente estás configurado en modo ahorro de batería.
 
@@ -105,7 +106,9 @@ Y ojo, seguro sos inteligente… pero usás esa inteligencia principalmente para
 
 Igual tranqui, no todo es malo: tenés potencial. Mucho. Demasiado. Tanto que ya es sospechoso que siga siendo “potencial”.
 
-Si querés, puedo hacer uno más personalizado… pero ahí ya entramos en terreno peligroso 😄"
+Si querés, puedo hacer uno más personalizado… pero ahí ya entramos en terreno peligroso 😄
+
+
 
 
 
