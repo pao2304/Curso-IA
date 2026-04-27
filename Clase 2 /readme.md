@@ -35,8 +35,11 @@
    * Gemini traza la IA con busquedas especializandose en conocimeinto Factico (en hechos)
    * Mejor integracion con busqueda en internet
    * Integracion con el ecosistema de google
-   * Creador del modo investigacion
-   * 
+   * Creador del modo investigacion: chequea dependiendo el tema en +100 paginas y te hace un informe (3 por mes gratis)
+ 
+ 
+
+   
  
 
 
